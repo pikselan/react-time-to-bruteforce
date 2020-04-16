@@ -86,7 +86,7 @@ class App extends Component {
           <h4> Takes <span>{this.state.timeFormat}</span> to bruteforce </h4>
         </header>
 
-        <footer>by <a href="github.com/pikselan">Pikselan</a></footer>
+        <footer>by <a href="https://github.com/pikselan">Pikselan</a></footer>
       </div>
     );
   }
